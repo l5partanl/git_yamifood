@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+/* cargamos fontawesome / yo uso boxicons*/
+@import url(https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css);
+
+/* cargamos fuentes google fonts: Arbutus Slab, Athiti 400, 500 y 600 */
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Athiti:wght@400;500;600&display=swap');
+/* .arbutus-slab-regular: font-family: "Arbutus Slab", serif; font-weight: 400;
+.athiti: font-family: "Athiti", serif; font-weight: 400; font-weight: 500; font-weight: 600; */
+
+@import url(variables.css);
+
+@import url(layout.css);
