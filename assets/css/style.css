@@ -14,5 +14,7 @@
 
 @import url(header.css);
 
+@import url(hero.css);
+
 /* las mediaqueries siempre se comitean al ultimo */
 @import url(mediaquery.css);
