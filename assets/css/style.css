@@ -13,3 +13,6 @@
 @import url(layout.css);
 
 @import url(header.css);
+
+/* las mediaqueries siempre se comitean al ultimo */
+@import url(mediaquery.css);
