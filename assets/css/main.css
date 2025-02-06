@@ -123,8 +123,34 @@ main .section {
 
 #contact {
     background-color: var(--primary-color);
+    padding: 20px 0px;
+
+    .map {
+        margin-top: 20px;
+    }
+
+    .icons {
+        display: flex;
+        justify-content: space-around;
+
+        span {
+            display: none;
+        }
+
+        i {
+            font-size: 1.5rem;
+            padding: 15px;
+            display: inline-block;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.8);
+            color: var(--primary-color)
+        }
+    }
 }
 
+
+
+/* inicio footer */
 footer {
     background-color: black;
     color: white;
