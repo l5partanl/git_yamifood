@@ -118,3 +118,30 @@ main .section {
         transition: 2s;
     }
 }
+
+/* inicio seccion contact */
+
+#contact {
+    background-color: var(--primary-color);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
+
+    ul li {
+        display: inline-block;
+    }
+}
